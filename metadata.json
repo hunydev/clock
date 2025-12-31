@@ -1,0 +1,5 @@
+{
+  "name": "Precision Chrono & Webhook",
+  "description": "A high-precision analog and digital clock with millisecond accuracy, featuring alarm scheduling and automated webhook triggers.",
+  "requestFramePermissions": []
+}
